@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "64882796105",
+    "firebase_url": "https://job-portal-app-ce98b.firebaseio.com",
+    "project_id": "job-portal-app-ce98b",
+    "storage_bucket": "job-portal-app-ce98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64882796105:android:93c652ab3a7b573da14198",
+        "android_client_info": {
+          "package_name": "com.example.jobportalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64882796105-42enhst4blrahvjb8469ntcvduen024s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobportalapp",
+            "certificate_hash": "8cc0618aa1beda7dfd9eff6b7f30781b885aa5a5"
+          }
+        },
+        {
+          "client_id": "64882796105-dajdb85t4a9agrp3dqd7gr72mqgletl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9JxSqIF9fbiwB1CkuNXPZRXlpjiTAHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64882796105-dajdb85t4a9agrp3dqd7gr72mqgletl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
